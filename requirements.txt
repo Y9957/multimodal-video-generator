@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+python-pptx
+pandas
+numpy
+Pillow
+ffmpeg-python
+serpapi
+requests
+python-dotenv
+tqdm
